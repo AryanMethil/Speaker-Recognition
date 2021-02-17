@@ -1,2 +1,2 @@
-# Speech-Recognition
-Speech Recognition using Siamese LSTM network
+# Speaker-Recognition
+Speaker Recognition using Siamese LSTM network
